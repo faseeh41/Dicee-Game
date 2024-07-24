@@ -1,6 +1,6 @@
 ## Dicee-Game Easy Styling
 
-## Using Javascript to rendomly gave dicee images and predict the Winner!
+## Using Javascript to randomly gave dicee images and predict the Winner!
 
 <h2 align="center">
   <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
