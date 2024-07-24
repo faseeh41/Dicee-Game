@@ -1,6 +1,6 @@
-## Tailwind FrontEnd Easy Styling
+## Dicee-Game Easy Styling
 
-## Using Tailwind CSS made easier for everyone!
+## Using Javascript to rendomly gave dicee images and predict the Winner!
 
 <h2 align="center">
   <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
@@ -12,27 +12,13 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/faseeh41/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/faseeh41/Bits-0f-C0de/issues">Request Feature</a>
-</h3>
 
 ## Built With
 
 This project was built using these technologies.
 
-- Node.js
-- Tailwind Css
+- Dicee-images
+- Css
 - Javascript
 - VsCode
 - Html
@@ -43,29 +29,24 @@ This project was built using these technologies.
 
 **✏️ Easy to customize and write of your own**
 
-**🎨 Styled with Tailwind Css**
+**🎨 Styled with simple Css & Dicee-images**
 
 ## Getting Started
 
 ### 🛠 Installation and Setup Instructions
 
-To get started just clone this repository. You will need `node.js` and `git` installed globally on your machine.
+To get started just clone this repository. You will need to download live server on your machine.
 
 Run
 
 ```
-npm install
+run on live server
 ```
-
-```
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open with port: 5500 your browser to see the result.
 
 ## Usage Instructions
 
-To write your own create a markdown file in `_content` folder with the specified format.
+To write your own create a new index.html and modify according to your own on requirements.
 
 ### Show your support
 
