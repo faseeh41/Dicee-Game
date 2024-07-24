@@ -1,4 +1,4 @@
-## Dicee-Game Easy Styling
+## Dicee-Game 
 
 ## Using Javascript to randomly gave dicee images and predict the Winner!
 
