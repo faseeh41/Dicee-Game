@@ -3,7 +3,7 @@
 ## Using Javascript to randomly gave dicee images and predict the Winner!
 
 <h2 align="center">
-  <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
+  <a href="https://dicee-game-faseeh.vercel.app/" target="_blank">dicee-game-faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
